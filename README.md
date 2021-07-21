@@ -1,5 +1,5 @@
 # rwd-patterns
-Third project from Juan Pablo's course of Web Development.
+The third project from Juan Pablo's course of Web Development.
 
 This project contents a bunch of design patterns such as "layout shifter", "mostly fluid", "tiny tweaks", "column drop", etc.
 
