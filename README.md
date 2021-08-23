@@ -1,5 +1,5 @@
 # rwd-patterns
-This is the third project from Juan Pablo's course of Web Development.
+This is the third project from Juan Pablo's course of [Web Development](https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/).
 
 This project contents a bunch of design patterns such as **layout shifter**, **mostly fluid**, **tiny tweaks**, **column drop**, etc.
 
